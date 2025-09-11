@@ -1,3 +1,5 @@
+#lala
+
 def replace_word():
     str = "Hi, It's atique lname "
     word_to_replace = input("Enter word to replace: ")
