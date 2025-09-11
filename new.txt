@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is from main
-my favorite color is blue
+my favorite color is blue and red
+=======
+this is from dev
+
+>>>>>>> dev
