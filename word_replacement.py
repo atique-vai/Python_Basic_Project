@@ -1,4 +1,3 @@
-#lala
 
 def replace_word():
     str = "Hi, It's atique lname "
